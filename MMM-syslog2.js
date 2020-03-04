@@ -7,7 +7,7 @@
  * MIT Licensed.
  */
 
-Module.register('MMM-syslog',{
+Module.register('MMM-syslog2',{
 
 	messages: [],
 

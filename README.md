@@ -1,8 +1,5 @@
 ## PSA: 
-1st &  2nd cell merged 
-3rd cell removed
-to enable text-overflow: ellipsis
-YMMV
+1st &  2nd cell merged, 3rd cell removed - to enable text-overflow: ellipsis.
 
 # MMM-syslog
 Notification API Module for MagicMirror<sup>2</sup>

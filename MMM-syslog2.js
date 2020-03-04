@@ -97,7 +97,7 @@ Module.register('MMM-syslog2',{
 				message = message.slice(0, this.config.shortenMessage) + "&#8230;";
 			}
 			//Set caller of row
-			var caller =  document.createElement("&nbsp");
+			var caller =  document.createElement("MARK");
 			caller.innerHTML = "&nbsp" + message;
 			caller.classList.add("title", "small", "align-left");
 			if(this.config.types.hasOwnProperty(this.messages[i].type)){

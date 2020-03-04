@@ -73,7 +73,7 @@ Module.register('MMM-syslog2',{
 		for (var i = this.messages.length - 1; i >= 0; i--) {
 			//Create callWrapper
 			var callWrapper = document.createElement("tr");
-			callWrapper.classList.add("normal");
+			callWrapper.classList.add("bright");
 
 			var iconCell = document.createElement("td");
 			var icon =  document.createElement("i");
